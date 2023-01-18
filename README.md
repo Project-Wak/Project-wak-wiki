@@ -1,5 +1,7 @@
 <div align="center">
 
+###### 개발자가 직접 전해주는
+
 # Project Wak (프로젝트 왁) 위키
 
 <img src = "etc/images/thumnail.png" width = "600px">
@@ -449,5 +451,53 @@
 
 </br></br>
 
+---------------------------------
+
 </details>
 
+
+<details>
+<summary>시간대별 NPC</summary>
+
+---------------------------------
+
+
+<img src = "etc/images/npc1.png" width = "64px">
+
+- 20시 ~ 24시 (밤)</br>
+아이네</br>
+
+
+<img src = "etc/images/npc2.png" width = "64px">
+
+- 1시 ~ 4시 (밤)</br>
+주르르</br>
+
+
+<img src = "etc/images/npc3.png" width = "64px">
+
+- 5시 ~ 9시 (밤/아침)</br>
+고세구</br>
+
+
+<img src = "etc/images/npc4.png" width = "64px">
+
+- 10시 ~ 13시 (아침)</br>
+비챤</br>
+
+
+<img src = "etc/images/npc5.png" width = "64px">
+
+- 14시 ~ 17시 (아침)</br>
+징버거</br>
+
+
+<img src = "etc/images/npc6.png" width = "64px">
+
+- 17시 ~ 19시 (아침)</br>
+릴파</br>
+
+---------------------------------
+
+
+</details>
