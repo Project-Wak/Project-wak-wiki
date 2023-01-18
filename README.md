@@ -2,7 +2,7 @@
 
 ###### 개발자가 직접 전해주는
 
-# Project Wak (프로젝트 왁) 위키
+### Project Wak (프로젝트 왁) 가이드
 
 <img src = "etc/images/thumnail.png" width = "600px">
 
